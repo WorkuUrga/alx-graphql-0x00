@@ -1,4 +1,4 @@
-{
+query {
   character(id: 3) {
     id
     name
@@ -6,11 +6,5 @@
     species
     type
     gender
-  }
-  character(page: Int) {
-    id
-    name
-    status
-    image
   }
 }

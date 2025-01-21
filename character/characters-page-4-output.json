@@ -1,0 +1,20 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "61",
+          "name": "Summer Smith",
+          "status": "Alive",
+          "image": "https://example.com/image61.jpg"
+        },
+        {
+          "id": "62",
+          "name": "Birdperson",
+          "status": "Dead",
+          "image": "https://example.com/image62.jpg"
+        }
+      ]
+    }
+  }
+}

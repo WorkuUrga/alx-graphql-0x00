@@ -1,0 +1,20 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "21",
+          "name": "Aqua Morty",
+          "status": "unknown",
+          "image": "https://example.com/image21.jpg"
+        },
+        {
+          "id": "22",
+          "name": "Aqua Rick",
+          "status": "unknown",
+          "image": "https://example.com/image22.jpg"
+        }
+      ]
+    }
+  }
+}

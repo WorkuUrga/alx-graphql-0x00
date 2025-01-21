@@ -1,0 +1,20 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "41",
+          "name": "Beth Smith",
+          "status": "Alive",
+          "image": "https://example.com/image41.jpg"
+        },
+        {
+          "id": "42",
+          "name": "Jerry Smith",
+          "status": "Alive",
+          "image": "https://example.com/image42.jpg"
+        }
+      ]
+    }
+  }
+}
