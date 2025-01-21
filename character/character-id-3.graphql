@@ -7,4 +7,10 @@
     type
     gender
   }
+  character(page: Int) {
+    id
+    name
+    status
+    image
+  }
 }
